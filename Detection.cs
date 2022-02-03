@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-//обнаружение юнитов с помощью луча
 
 public class Detection : MonoBehaviour
 {
